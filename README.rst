@@ -1,3 +1,12 @@
+V. cagtegory of LabelImg
+========
+*save category name instead of number in YOLO format
+
+
+
+================================================================================
+
+
 LabelImg
 ========
 
